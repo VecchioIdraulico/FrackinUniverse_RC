@@ -2,7 +2,7 @@
   "id" : "4oonforta.gearup",
   "prerequisites" : [ "3thornitox.gearup" ],
   "title" : "^#1693d5;Oonforta",
-  "text" : "^orange;Oonforta^white; isss beautiful. Glowsss in the dark. Insert ^orange;luminescent cells^white; and ^orange;chloroplast I^white; genes into some ^orange;nutrient paste^white;.",
+  "text" : "^orange;Oonforta^white; isss beautiful. Glowsss in the dark. Insert ^orange;bioluminescent^white; and ^orange;reactive^white; genes into some ^orange;feathercrown seeds^white;.",
   "completionText" : "That iss good! Now we movess to lesss ssilly and more ssstabby plantss! I like sstabby things!",
   "speaker" : "questGiver",
   "moneyRange" : [0, 0],

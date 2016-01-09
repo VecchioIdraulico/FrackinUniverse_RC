@@ -2,7 +2,7 @@
   "id" : "3thornitox.gearup",
   "prerequisites" : [ "2miraclegrass.gearup" ],
   "title" : "^#1693d5;Thornitox",
-  "text" : "Now let's make a ^orange;Thornitox^white;. Thisss plant iss ugly to fleshies, but useful. You can craft weaponsss with it and ssstab or ssshoot things. Insert ^orange;toxic^white; and ^orange;cell hardening I^white; genes into some ^orange;tisssue culture^white;.",
+  "text" : "Now let's make a ^orange;Thornitox^white;. Thisss plant iss ugly to fleshies, but useful. You can craft weaponsss with it and ssstab or ssshoot things. Insert ^orange;poisonous^white; and ^orange;skeletal^white; genes into some ^orange;corn seeds^white;.",
   "completionText" : "Nice. You really should craft a ^orange;Thornitox weapon^white; now.",
   "speaker" : "questGiver",
   "moneyRange" : [0, 0],
